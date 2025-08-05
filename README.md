@@ -1,6 +1,6 @@
 # AI, ML, & DL Learning Cards
 
-Welcome to this curated collection of learning cards, designed for senior AI scientists preparing for technical interviews at major tech companies. Each card provides a high-level overview of a key topic, focusing on the essential concepts and their practical applications.
+Welcome to this collection of AI, Machine Learning and Deep Learning cards, designed for AI scientists and engineers. Each card provides a high-level overview of a key topic, focusing on the essential concepts and their practical applications.
 
 ## Table of Contents
 
