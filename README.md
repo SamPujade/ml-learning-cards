@@ -11,37 +11,44 @@ Welcome to this collection of AI, Machine Learning and Deep Learning cards, desi
 *   [1.4. Optimization Algorithms (Gradient Descent, SGD, Adam)](./part1/1.4_optimization_algorithms.md)
 *   [1.5. Evaluation Metrics for Classification & Regression](./part1/1.5_evaluation_metrics.md)
 
-### Part 2: Deep Learning Fundamentals
-*   [2.1. Neural Networks & Multi-Layer Perceptrons (MLPs)](./part2/2.1_neural_networks.md)
-*   [2.2. Activation Functions (ReLU, Sigmoid, Tanh)](./part2/2.2_activation_functions.md)
-*   [2.3. Backpropagation and Automatic Differentiation](./part2/2.3_backpropagation.md)
-*   [2.4. Weight Initialization Techniques](./part2/2.4_weight_initialization.md)
-*   [2.5. Normalization Techniques (BatchNorm, LayerNorm)](./part2/2.5_normalization_techniques.md)
+### Part 2: Classical Machine Learning Models
+*   [2.1. Linear Models (Linear & Logistic Regression)](./part2/2.1_linear_models.md)
+*   [2.2. Support Vector Machines](./part2/2.2_support_vector_machines.md)
+*   [2.3. Naive Bayes Classifiers](./part2/2.3_naive_bayes_classifiers.md)
+*   [2.4. Tree Ensembles: Random Forest](./part2/2.4_tree_ensembles_random_forest.md)
+*   [2.5. Gradient Boosting Machines (XGBoost)](./part2/2.5_gradient_boosting_machines.md)
 
-### Part 3: Convolutional Neural Networks (CNNs)
-*   [3.1. Convolutional & Pooling Layers](./part3/3.1_convolutional_pooling.md)
-*   [3.2. Classic CNN Architectures (LeNet, AlexNet, VGG, ResNet)](./part3/3.2_classic_architectures.md)
-*   [3.3. Advanced CNN Applications (Object Detection, Segmentation)](./part3/3.3_advanced_applications.md)
+### Part 3: Deep Learning Fundamentals
+*   [3.1. Neural Networks & Multi-Layer Perceptrons (MLPs)](./part3/3.1_neural_networks.md)
+*   [3.2. Activation Functions (ReLU, Sigmoid, Tanh)](./part3/3.2_activation_functions.md)
+*   [3.3. Backpropagation and Automatic Differentiation](./part3/3.3_backpropagation.md)
+*   [3.4. Weight Initialization Techniques](./part3/3.4_weight_initialization.md)
+*   [3.5. Normalization Techniques (BatchNorm, LayerNorm)](./part3/3.5_normalization_techniques.md)
 
-### Part 4: Sequential Models
-*   [4.1. Recurrent Neural Networks (RNNs) & The Vanishing/Exploding Gradient Problem](./part4/4.1_rnns.md)
-*   [4.2. Long Short-Term Memory (LSTM) Networks](./part4/4.2_lstms.md)
-*   [4.3. Gated Recurrent Units (GRUs)](./part4/4.3_grus.md)
+### Part 4: Convolutional Neural Networks (CNNs)
+*   [4.1. Convolutional & Pooling Layers](./part4/4.1_convolutional_pooling.md)
+*   [4.2. Classic CNN Architectures (LeNet, AlexNet, VGG, ResNet)](./part4/4.2_classic_architectures.md)
+*   [4.3. Advanced CNN Applications (Object Detection, Segmentation)](./part4/4.3_advanced_applications.md)
 
-### Part 5: The Transformer Architecture
-*   [5.1. The Attention Mechanism](./part5/5.1_attention_mechanism.md)
-*   [5.2. Self-Attention and Multi-Head Attention](./part5/5.2_self_attention.md)
-*   [5.3. The Transformer Encoder-Decoder Model](./part5/5.3_transformer_model.md)
-*   [5.4. Foundational Models (BERT, GPT)](./part5/5.4_foundational_models.md)
-*   [5.5. Vision Transformers (ViT)](./part5/5.5_vision_transformers.md)
+### Part 5: Sequential Models
+*   [5.1. Recurrent Neural Networks (RNNs) & The Vanishing/Exploding Gradient Problem](./part5/5.1_rnns.md)
+*   [5.2. Long Short-Term Memory (LSTM) Networks](./part5/5.2_lstms.md)
+*   [5.3. Gated Recurrent Units (GRUs)](./part5/5.3_grus.md)
 
-### Part 6: Reinforcement Learning (RL)
-*   [6.1. Markov Decision Processes (MDPs)](./part6/6.1_mdps.md)
-*   [6.2. Value-Based Methods (Q-Learning, DQN)](./part6/6.2_value_based_methods.md)
-*   [6.3. Policy-Based Methods (REINFORCE, Actor-Critic)](./part6/6.3_policy_based_methods.md)
+### Part 6: The Transformer Architecture
+*   [6.1. The Attention Mechanism](./part6/6.1_attention_mechanism.md)
+*   [6.2. Self-Attention and Multi-Head Attention](./part6/6.2_self_attention.md)
+*   [6.3. The Transformer Encoder-Decoder Model](./part6/6.3_transformer_model.md)
+*   [6.4. Foundational Models (BERT, GPT)](./part6/6.4_foundational_models.md)
+*   [6.5. Vision Transformers (ViT)](./part6/6.5_vision_transformers.md)
 
-### Part 7: Advanced & Specialized Topics
-*   [7.1. Generative Models (GANs, VAEs, Diffusion Models)](./part7/7.1_generative_models.md)
-*   [7.2. Graph Neural Networks (GNNs)](./part7/7.2_gnns.md)
-*   [7.3. Self-Supervised and Unsupervised Learning](./part7/7.3_self_supervised_learning.md)
-*   [7.4. MLOps: Productionizing ML Models](./part7/7.4_mlops.md)
+### Part 7: Reinforcement Learning (RL)
+*   [7.1. Markov Decision Processes (MDPs)](./part7/7.1_mdps.md)
+*   [7.2. Value-Based Methods (Q-Learning, DQN)](./part7/7.2_value_based_methods.md)
+*   [7.3. Policy-Based Methods (REINFORCE, Actor-Critic)](./part7/7.3_policy_based_methods.md)
+
+### Part 8: Advanced & Specialized Topics
+*   [8.1. Generative Models (GANs, VAEs, Diffusion Models)](./part8/8.1_generative_models.md)
+*   [8.2. Graph Neural Networks (GNNs)](./part8/8.2_gnns.md)
+*   [8.3. Self-Supervised and Unsupervised Learning](./part8/8.3_self_supervised_learning.md)
+*   [8.4. MLOps: Productionizing ML Models](./part8/8.4_mlops.md)
