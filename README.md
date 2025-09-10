@@ -16,6 +16,7 @@ Welcome to this collection of AI, Machine Learning and Deep Learning cards, desi
 *   [2.2. Activation Functions (ReLU, Sigmoid, Tanh)](./part2/2.2_activation_functions.md)
 *   [2.3. Backpropagation and Automatic Differentiation](./part2/2.3_backpropagation.md)
 *   [2.4. Weight Initialization Techniques](./part2/2.4_weight_initialization.md)
+*   [2.5. Normalization Techniques (BatchNorm, LayerNorm)](./part2/2.5_normalization_techniques.md)
 
 ### Part 3: Convolutional Neural Networks (CNNs)
 *   [3.1. Convolutional & Pooling Layers](./part3/3.1_convolutional_pooling.md)
