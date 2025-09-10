@@ -7,7 +7,7 @@ Welcome to this collection of AI, Machine Learning and Deep Learning cards, desi
 ### Part 1: Machine Learning Foundations
 *   [1.1. Core Concepts: Supervised, Unsupervised, and Reinforcement Learning](./part1/1.1_core_concepts.md)
 *   [1.2. The Bias-Variance Tradeoff](./part1/1.2_bias_variance_tradeoff.md)
-*   [1.3. Overfitting and Regularization (L1, L2, Dropout)](./part1/1.3_overfitting_regularization.md)
+*   [1.3. Overfitting and Regularization Techniques](./part1/1.3_overfitting_regularization.md)
 *   [1.4. Optimization Algorithms (Gradient Descent, SGD, Adam)](./part1/1.4_optimization_algorithms.md)
 *   [1.5. Evaluation Metrics for Classification & Regression](./part1/1.5_evaluation_metrics.md)
 
