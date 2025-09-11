@@ -10,6 +10,8 @@ Welcome to this collection of AI, Machine Learning and Deep Learning cards, desi
 *   [1.3. Overfitting and Regularization Techniques](./part1/1.3_overfitting_regularization.md)
 *   [1.4. Optimization Algorithms (Gradient Descent, SGD, Adam)](./part1/1.4_optimization_algorithms.md)
 *   [1.5. Evaluation Metrics for Classification & Regression](./part1/1.5_evaluation_metrics.md)
+*   [1.6. Loss Functions](./part1/1.6_loss_functions.md)
+*   [1.7. Hyperparameter Optimization](./part1/1.7_hyperparameter_optimization.md)
 
 ### Part 2: Classical Machine Learning Models
 *   [2.1. Linear Models (Linear & Logistic Regression)](./part2/2.1_linear_models.md)
