@@ -54,3 +54,11 @@ Welcome to this collection of AI, Machine Learning and Deep Learning cards, desi
 *   [8.2. Graph Neural Networks (GNNs)](./part8/8.2_gnns.md)
 *   [8.3. Self-Supervised and Unsupervised Learning](./part8/8.3_self_supervised_learning.md)
 *   [8.4. MLOps: Productionizing ML Models](./part8/8.4_mlops.md)
+
+### Part 9: Large Language Model (LLM) Usage and Applications
+*   [9.1. LLM Architectures and Pre-training](./part9/9.1_llm_architectures_and_pre-training.md)
+*   [9.2. Fine-tuning and Transfer Learning for LLMs](./part9/9.2_fine-tuning_and_transfer_learning_for_llms.md)
+*   [9.3. Parameter-Efficient Fine-Tuning (PEFT): LoRA and Beyond](./part9/9.3_parameter-efficient_fine-tuning_peft_lora_and_beyond.md)
+*   [9.4. Retrieval-Augmented Generation (RAG)](./part9/9.4_retrieval-augmented_generation_rag.md)
+*   [9.5. LLM Evaluation and Metrics](./part9/9.5_llm_evaluation_and_metrics.md)
+*   [9.6. LLM Deployment and Optimization](./part9/9.6_llm_deployment_and_optimization.md)
